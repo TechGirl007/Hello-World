@@ -1,0 +1,10 @@
+#Introduction to Python for Newbies
+#Understanding an output comman
+#Seeing what Python can do and how simple it is
+#print command allows us to have the computer output something.
+#two things to remember about the print command.  The brackets () and the quotation marks ""
+#also the print command must be written in lower case and will change color
+
+print("Hello Everyon")
+print("I am learning python")
+print("I just learnt how to print")
