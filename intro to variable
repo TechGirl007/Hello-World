@@ -1,0 +1,8 @@
+#Introduction to variabe
+#A variable is a container.  There are some rules that you need to follow.
+#Rule One.  Never create a variable with a number of a capital letter
+#Rule Two.  Don't use a command like print as a variable name
+
+
+variable1="apple"
+print(variable1)
